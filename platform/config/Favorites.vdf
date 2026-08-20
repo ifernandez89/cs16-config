@@ -1,0 +1,23 @@
+"Favorites"
+{
+	"0"
+	{
+		"name"		"Servidor 1 - Local/Publico"
+		"address"	"45.235.98.54:27015"
+	}
+	"1"
+	{
+		"name"		"Servidor 2 - Local/Publico"
+		"address"	"45.235.98.12:27015"
+	}
+	"2"
+	{
+		"name"		"Servidor 3 - Local/Publico"
+		"address"	"45.235.98.24:27015"
+	}
+	"3"
+	{
+		"name"		"Servidor 4 - Local/Publico"
+		"address"	"190.210.180.201:27015"
+	}
+}
