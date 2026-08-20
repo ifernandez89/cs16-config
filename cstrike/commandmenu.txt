@@ -1,0 +1,65 @@
+// Command Menu para Counter-Strike 1.6 Personalizado
+
+"1" "Mano del Arma"
+{
+	"1" "Mano Derecha"	"cl_righthand 1"
+	"2" "Mano Izquierda"	"cl_righthand 0"
+}
+
+"2" "Ajustes de Mira"
+{
+	"1" "Tamano"
+	{
+		"1" "Pequeno"	"cl_crosshair_size small"
+		"2" "Mediano"	"cl_crosshair_size medium"
+		"3" "Grande"	"cl_crosshair_size large"
+		"4" "Auto"		"cl_crosshair_size auto"
+	}
+	"2" "Color"
+	{
+		"1" "Verde Brillante"	"cl_crosshair_color 0 255 0"
+		"2" "Rojo"				"cl_crosshair_color 255 0 0"
+		"3" "Amarillo"			"cl_crosshair_color 255 255 0"
+		"4" "Azul Cian"			"cl_crosshair_color 0 255 255"
+		"5" "Blanco"			"cl_crosshair_color 255 255 255"
+	}
+	"3" "Mira Fija (Desactivar Dinamica)"	"cl_dynamiccrosshair 0"
+	"4" "Mira Dinamica (Se abre al moverse)"	"cl_dynamiccrosshair 1"
+	"5" "Quitar Transparencia (Solida)"	"cl_crosshair_translucent 0"
+	"6" "Activar Transparencia"			"cl_crosshair_translucent 1"
+}
+
+"3" "Control de Bots"
+{
+	"1" "Agregar Bot Terrorista"			"bot_add_t"
+	"2" "Agregar Bot Anti-Terrorista"		"bot_add_ct"
+	"3" "Eliminar Todos los Bots"			"bot_kick"
+	"4" "Matar Todos los Bots"			"bot_kill"
+	"5" "Dificultad de Bots"
+	{
+		"1" "Facil"		"bot_difficulty 0"
+		"2" "Normal"	"bot_difficulty 1"
+		"3" "Dificil"	"bot_difficulty 2"
+		"4" "Experto"	"bot_difficulty 3"
+	}
+	"6" "Armas de Bots"
+	{
+		"1" "Todas las Armas"	"bot_all_weapons"
+		"2" "Solo Pistolas"		"bot_pistols_only"
+		"3" "Solo Cuchillo"		"bot_knives_only"
+		"4" "Solo Snipers"		"bot_snipers_only"
+	}
+}
+
+"4" "Servidor Local / Practica"
+{
+	"1" "Reiniciar Ronda"				"sv_restart 1"
+	"2" "Dinero 16000"					"mp_startmoney 16000"
+	"3" "Tiempo de Ronda (5 Minutos)"	"mp_roundtime 5"
+	"4" "Sin Tiempo de Compra"			"mp_buytime 99"
+	"5" "Sin Congelacion Inicial"		"mp_freezetime 0"
+	"6" "Gravedad Normal (800)"			"sv_gravity 800"
+	"7" "Gravedad Baja (400)"			"sv_gravity 400"
+}
+
+"5" "Cambiar de Equipo"	"chooseteam"

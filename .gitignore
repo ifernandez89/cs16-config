@@ -1,0 +1,9 @@
+# Windows / OS junk
+Thumbs.db
+Desktop.ini
+.ds_store
+
+# Temporary logs
+*.log
+*.tmp
+scratch/
