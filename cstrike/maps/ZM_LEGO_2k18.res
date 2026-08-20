@@ -1,0 +1,10 @@
+maps/ZM_LEGO_2k18.bsp
+maps/ZM_LEGO_2k18.res
+maps/ZM_LEGO_2k18.txt
+ZM_LEGO_2k18.wad
+gfx/env/tsccity_bk.tga
+gfx/env/tsccity_dn.tga
+gfx/env/tsccity_ft.tga
+gfx/env/tsccity_lf.tga
+gfx/env/tsccity_rt.tga
+gfx/env/tsccity_up.tga

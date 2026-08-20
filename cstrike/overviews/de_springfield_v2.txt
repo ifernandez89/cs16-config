@@ -1,0 +1,14 @@
+//overview description for de_springfield_v2.bsp
+
+global
+{
+ZOOM 1.51
+ORIGIN 496.00 -1928.00 -1152.00
+ROTATED 0
+}
+
+layer
+{
+IMAGE "overviews/de_springfield_v2.bmp"
+HEIGHT -1152.00
+}

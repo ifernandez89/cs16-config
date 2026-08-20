@@ -1,0 +1,19 @@
+FY_DOORS2 by Penguin1  a.k.a HQZ
+
+Alas, finally the sequels to fy doors... 
+I present to you fy_doors2!!! Now it's
+smaller, better and more fun than ever!
+----------------------------------------
+
+CHANGES:
+- Buyzone now below map
+- Smaller so now you wouldn't go dizzy
+- All errors fixed
+- Lights to identify CT & T base
+- Doors now do damage when blocked
+
+
+Blast all your opponent to win and 
+HAVE FUN!!!
+----------------------------------------
+

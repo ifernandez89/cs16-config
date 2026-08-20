@@ -1,0 +1,56 @@
+Word Wrap recommended
+=========================================================
+
+Title:			: "Zagros Assault"
+Description:		: Middle East missile silo camp, with Defusion Scenario, for 			  Counter-Strike MOD
+Filename(s):		: de_zagros.bsp, de_zagros_info.txt, de_zagros.txt (from 			  de_zagros.zip)
+Version			: v1.0
+Author			: Bluu
+E-mail Address		: bluunukem@hotmail.com
+Webpage			: http://www.mapfinger.com/members/Bluu
+Other Maps By Author	: Fort Olan
+
+=======================================================
+
+* Installation *
+
+Extract the .bsp and .txt files to your Half-Life\cstrike\maps folder. .tga files must go in your cstrike\gfx\env folder. If you have Use Folder Names checked, extract all files to your Half-Life directory.
+ 
+======================================================
+
+* Play Information *
+
+Single Player          : No
+Cooperative            : No
+Deathmatch/CTF         : Not quite.
+Hostage Scenario       : Gettin closer.
+Defusion Scenario      : Exactly!
+Players		       : 6 minimum is very good. 16 would be pushing it. Intended for LAN 			 play.
+New Textures           : From de_dust.wad and tfc.wad. However, all are compiled into the 			 .bsp.
+New Models             : No
+New Sounds             : No
+  
+* Construction *
+
+Base                   : Scratch
+Build time             : Three weeks on and off
+Compiler               : P3 500, 128MB RAM
+Final Compile Time     : CSG: 16.75 seconds (-nowadtextures -skyclip -high)
+			 BSP: 9.28 seconds (-high)
+			 VIS: 127.53 seconds (-high)
+			 RAD: 301.98 (-high)
+Known Bugs	       : None
+
+=======================================================
+
+* Counter-Terrorists*
+	Just one day after the failed terrorist attack on Kuwait's Fort Olan, the overall plan is discovered. Destroying the supply of Fort Olan would have crippled the American Army, but there is a much larger danger.
+	Olan was the distraction. Now, the terrorists have targetted an abandoned basecamp at the base of the Zagros mountain chain in Iran. From the information we have got from the Iran government, two biochemical missiles were stored in this basecamp. However, once Iran regained control of its government, the key to the missiles were thrown away, and the basecamp there now conceals them. The terrorists want to detonate the silo doors and use the missiles for their purposes. Although each is stored in a different silo, the control rooms link them. If they destroy one door, they have both. Stop them.
+
+* Terrorists *
+Dear Beefhole,
+
+	The old plans of the missile storage does seem correct. Our scout tells us that the silo doors are quite visible, and now marked. However, the old plans do not cover the fact that several structures were built around the original silos! Apparently some kind of storage shelters one of the silos, and its door, in the southwest. The northeast contains a miniature, abandoned marketplace. Both doors are marked, so finding the bomb point shouldn't be a problem.
+	You are being shuttled in through the village at the northeast. You'll start off outside the backdoor to a building. No local resistence is expected, except from the Americans. They will likely enter from the main street, just south of your position, so watch out as you leave for the targets.
+
+=======================================================

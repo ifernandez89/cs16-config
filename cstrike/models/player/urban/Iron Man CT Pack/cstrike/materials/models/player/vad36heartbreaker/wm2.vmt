@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\player\vad36heartbreaker\wm2"
+	 "$envmap" 			"env_cubemap"
+	 "$bumpmap" "models\player\vad36heartbreaker\wm2_n"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmapcontrast" 0.3
+	"$envmapsaturation" 0.7
+	"$envmaptint" "[ 0.36 0.36 0.36 ]"
+}

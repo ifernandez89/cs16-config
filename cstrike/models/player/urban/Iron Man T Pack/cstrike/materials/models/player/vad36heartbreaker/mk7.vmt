@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+$baseTexture "models\player\vad36heartbreaker\mk7"
+$bumpmap "models\player\vad36heartbreaker\mk7_n"
+$phongexponenttexture "models\player\vad36heartbreaker\mk7_s"
+$rimmask 1
+$nodecal "1"
+
+$phong "1"
+$phongexponent "10"
+$phongboost ".45"	
+$phongfresnelranges "[0.7 1 15]"
+$phongalbedotint "1"
+        $detail "models\player\vad36heartbreaker/mk7_l"
+	$detailscale 1
+	$detailblendfactor "1"
+	$detailblendmode 5
+}

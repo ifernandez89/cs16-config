@@ -1,0 +1,19 @@
+Arboretum - Bomb/Defuse
+by [DNv]Cross
+models by Pericolos0
+sky by Pinkbunny
+
+Background: Terrorists have infiltrated the
+arboretum visitor center and are attempting
+to destroy vital plant-medicine research
+data.
+
+Counter-Terrorists: Prevent the Terrorists
+from destroying the critical plant data.
+Eliminate them if neccessary
+
+Terrorists: Darwinism must prevail!
+You must destroy the medical research.
+Eliminate any opposition you encounter
+
+Press Fire to Continue.

@@ -1,0 +1,1 @@
+copy/paste zm_snow_attack_dd.bsp to your maps folder in cstrike

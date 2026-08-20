@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+$baseTexture "models\player\vad36heartbreaker\mark2_d"
+$bumpmap "models\player\vad36heartbreaker\mark2_n"
+$phongexponenttexture "models\player\vad36heartbreaker\mark2_s"
+$rimmask 1
+}

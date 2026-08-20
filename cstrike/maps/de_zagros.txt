@@ -1,0 +1,15 @@
+Zagros Assault - Bomb/Defuse
+
+Counter-Terrorists: Prevent Terrorists
+from detonating missile silo doors. 
+Team members must defuse any bombs that
+threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the missile silo
+doors at the southwest or northeast.
+
+Other Notes: There are 2 targets 
+in this mission.
+
+(Press FIRE to continue)

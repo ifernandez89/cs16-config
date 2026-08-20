@@ -1,0 +1,11 @@
+maps/fy_pool_day.res
+sound/misc/firstblood.wav
+sound/misc/godlike.wav
+sound/misc/headshot.wav
+sound/misc/humiliation.wav
+sound/misc/killingspree.wav
+sound/misc/monsterkill.wav
+sound/misc/multikill.wav
+sound/misc/prepare.wav
+sound/misc/ultrakill.wav
+sound/misc/unstoppable.wav
