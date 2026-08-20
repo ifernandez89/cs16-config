@@ -1,0 +1,21 @@
+Paso a Paso Correcto con Radmin VPN:
+Estar conectados en Radmin VPN:
+
+Uno crea la sala en Radmin (ej: Red CS16Prueba, clave 123).
+El otro se une a esa sala.
+En Radmin verás la IP de Radmin de tu amigo al lado de su nombre (es una IP que empieza por 26.X.X.X).
+Crear la partida (El HOST):
+
+El que cree la partida entra a CS 1.6 $\rightarrow$ New Game $\rightarrow$ Selecciona el mapa y presiona Start.
+Le pasa su IP de Radmin a su amigo (ejemplo: 26.154.20.80).
+Conectarse por Consola (El AMIGO):
+
+El amigo abre su CS 1.6.
+Abre la consola de comandos (tecla ~ o ñ).
+Escribe el comando directo apuntando a la IP de Radmin del Host y presiona Enter:
+cfg
+connect 26.154.20.80:27015
+Si al poner connect se queda reintentando y da error:
+
+El Firewall de Windows del Host está bloqueando al juego.
+Solución rápida en Windows: Ve a la barra de búsqueda de Windows $\rightarrow$ escribe Firewall de Windows $\rightarrow$ selecciona "Permitir que una aplicación pase a través del Firewall" $\rightarrow$ busca hl.exe (o Counter-Strike) y marca las casillas Privada y Pública.
