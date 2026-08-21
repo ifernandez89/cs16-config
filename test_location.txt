@@ -1,1 +1,0 @@
-Testing Git connection after moving repo to C:\projects\cs16-config-repo
