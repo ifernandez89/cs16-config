@@ -4,6 +4,22 @@ Todas las actualizaciones y mejoras del paquete de configuración, armaduras y m
 
 ---
 
+## [2.5.0] - 2026-11-08
+
+### 🛸 Protocolo Dead Space (Cámara OTS & Mira Láser 3D Volumétrica)
+- **📐 Cámara Cinematográfica sobre el Hombro (Over-The-Shoulder - OTS):**
+  - Calibración a 48 unidades de distancia de la espalda y 16 grados de desplazamiento angular hacia el hombro derecho (`cam_idealdist 48`, `cam_idealyaw 16`), idéntico al encuadre de Isaac Clarke en *Dead Space*.
+  - Sistema de contención y anticolisión perimetral (`cam_contain 1`) para evitar clipping al pasar por esquinas o muros.
+- **🔴 Apuntado Láser 3D Volumétrico (Solución Definitiva al Paralaje):**
+  - Proyección de haz láser continuo en Cian Neón (`sprites/laserbeam.spr`) desde la boca del arma hasta el punto exacto de impacto en el mapa.
+  - Sprite reactivo de impacto (`sprites/laserdot.spr`) en el mundo tridimensional: el jugador apunta guiándose por el punto físico donde impactarán las balas.
+- **🧬 Indicador Biométrico RIG en la Columna Vertebral:**
+  - Modulación dinámica del aura de la armadura según los puntos de vida en tiempo real: Cian Eléctrico ($\ge 70$ HP), Ámbar/Amarillo Alerta ($30-69$ HP) y Rojo Crítico ($< 30$ HP).
+- **🕹️ Alternancia Rápida (Teclas V y F5):**
+  - Transición instantánea entre la perspectiva Dead Space OTS y la vista clásica en 1ra persona con confirmación sónica y mensaje en pantalla.
+
+---
+
 ## [2.4.0] - 2026-11-08
 
 ### ⚡ Motor Metamod + AMX Mod X & Armamento Sci-Fi (CSO / CSNZ Suite)
