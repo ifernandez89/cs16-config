@@ -4,6 +4,16 @@ Todas las actualizaciones y mejoras del paquete de configuración, armaduras y m
 
 ---
 
+## [2.4.0] - 2026-11-08
+
+### ⚡ Motor Metamod + AMX Mod X & Armamento Sci-Fi (CSO / CSNZ Suite)
+- **🦿 Tercera Persona Real (`CAMERA_3RDPERSON`):** Integración nativa del hook de motor GoldSrc para vista externa libre mientras juegas con bots y multijugador, superando la limitación del ejecutable original de CS 1.6. Alternable en tiempo real con `V` o `F5`.
+- **💥 Cañón Gauss / Railgun (Francotiradores AWP & Scout):** Disparo de rayo láser continuo en Cian Neón (`TE_BEAMPOINTS`), destello de iluminación dinámica en recámara e impacto (`TE_DLIGHT`), chispas eléctricas de alto voltaje (`TE_SPARKS`) y anillo expansivo de choque (`TE_BEAMCYLINDER`) con sonido de descarga de Gauss de Half-Life.
+- **🔮 Lanza-Granadas de Plasma (HE Grenade):** Proyectil de energía con estela luminosa de plasma Cian (`TE_BEAMFOLLOW`), aura de blindaje brillante y detonación en pulso electromagnético expansivo con anillo de onda de choque y descarga sónica de plasma.
+- **🛡️ Escudo Táctico Holográfico:** Aura de fuerza traslúcida y deflexión balística con chispas de plasma al recibir impactos de bala.
+
+---
+
 ## [2.3.0] - 2026-11-08
 
 ### 🦿 Modo Tercera Persona Cyberpunk (TPS Over-The-Shoulder)

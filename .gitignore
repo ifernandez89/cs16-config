@@ -16,4 +16,11 @@ sound_weapons_orig_backup/
 tools/
 scripts/
 cstrike/media/
+cstrike/addons/
+cstrike/models/rpgrocket.mdl
+*.zip
+*.amxx
+test_*.cfg
+mm_plugins.txt
+
 

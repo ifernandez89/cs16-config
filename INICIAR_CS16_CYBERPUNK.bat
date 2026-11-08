@@ -20,3 +20,4 @@ if exist "%GAME_EXE%" (
     echo [ERROR] No se encontro hl.exe en la ruta predeterminada.
     pause
 )
+
