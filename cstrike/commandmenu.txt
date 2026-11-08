@@ -1,65 +1,67 @@
-// Command Menu para Counter-Strike 1.6 Personalizado
+// Command Menu para Counter-Strike 1.6 - Protocolo Cyberpunk
 
-"1" "Mano del Arma"
+"1" "[CÁMARA] Perspectiva & Vista"
 {
-	"1" "Mano Derecha"	"cl_righthand 1"
-	"2" "Mano Izquierda"	"cl_righthand 0"
+	"1" "Vista en 3ra Persona (Cyberpunk TPS)"	"cam_tps"
+	"2" "Vista en 1ra Persona (Clásica FPS)"	"cam_fps"
+	"3" "Mano Derecha (Predeterminada)"			"cl_righthand 1"
+	"4" "Mano Izquierda"						"cl_righthand 0"
 }
 
-"2" "Ajustes de Mira"
+"2" "[HUD] Retícula & Ajustes de Mira"
 {
-	"1" "Tamano"
+	"1" "Tamaño de Retícula"
 	{
-		"1" "Pequeno"	"cl_crosshair_size small"
+		"1" "Pequeño"	"cl_crosshair_size small"
 		"2" "Mediano"	"cl_crosshair_size medium"
 		"3" "Grande"	"cl_crosshair_size large"
-		"4" "Auto"		"cl_crosshair_size auto"
+		"4" "Automático"	"cl_crosshair_size auto"
 	}
-	"2" "Color"
+	"2" "Color del Láser / Retícula"
 	{
-		"1" "Verde Brillante"	"cl_crosshair_color 0 255 0"
-		"2" "Rojo"				"cl_crosshair_color 255 0 0"
-		"3" "Amarillo"			"cl_crosshair_color 255 255 0"
-		"4" "Azul Cian"			"cl_crosshair_color 0 255 255"
-		"5" "Blanco"			"cl_crosshair_color 255 255 255"
+		"1" "Cian Eléctrico (Cyberpunk)"	"cl_crosshair_color 0 240 255"
+		"2" "Amarillo Neón (2077)"			"cl_crosshair_color 254 232 1"
+		"3" "Verde Fluorescente (Pro)"		"cl_crosshair_color 0 255 0"
+		"4" "Rojo Cibernético"				"cl_crosshair_color 255 30 50"
+		"5" "Blanco Puro"					"cl_crosshair_color 255 255 255"
 	}
-	"3" "Mira Fija (Desactivar Dinamica)"	"cl_dynamiccrosshair 0"
-	"4" "Mira Dinamica (Se abre al moverse)"	"cl_dynamiccrosshair 1"
-	"5" "Quitar Transparencia (Solida)"	"cl_crosshair_translucent 0"
-	"6" "Activar Transparencia"			"cl_crosshair_translucent 1"
+	"3" "Mira Fija (Sin dinamismo)"			"cl_dynamiccrosshair 0"
+	"4" "Mira Dinámica (Reactiva al trote)"	"cl_dynamiccrosshair 1"
+	"5" "Retícula Sólida (Sin transparencia)"	"cl_crosshair_translucent 0"
+	"6" "Retícula Holográfica Translúcida"	"cl_crosshair_translucent 1"
 }
 
-"3" "Control de Bots"
+"3" "[IA TÁCTICA] Control de Drones & Bots"
 {
-	"1" "Agregar Bot Terrorista"			"bot_add_t"
-	"2" "Agregar Bot Anti-Terrorista"		"bot_add_ct"
-	"3" "Eliminar Todos los Bots"			"bot_kick"
-	"4" "Matar Todos los Bots"			"bot_kill"
-	"5" "Dificultad de Bots"
+	"1" "Desplegar Bot Terrorista"			"bot_add_t"
+	"2" "Desplegar Bot Anti-Terrorista"		"bot_add_ct"
+	"3" "Desconectar Todos los Bots"		"bot_kick"
+	"4" "Eliminar Todos los Bots (Kill)"	"bot_kill"
+	"5" "Dificultad de la IA"
 	{
-		"1" "Facil"		"bot_difficulty 0"
-		"2" "Normal"	"bot_difficulty 1"
-		"3" "Dificil"	"bot_difficulty 2"
-		"4" "Experto"	"bot_difficulty 3"
+		"1" "Nivel 0: Básico"		"bot_difficulty 0"
+		"2" "Nivel 1: Táctico"		"bot_difficulty 1"
+		"3" "Nivel 2: Avanzado"		"bot_difficulty 2"
+		"4" "Nivel 3: Experto"		"bot_difficulty 3"
 	}
-	"6" "Armas de Bots"
+	"6" "Restricción de Armamento"
 	{
-		"1" "Todas las Armas"	"bot_all_weapons"
-		"2" "Solo Pistolas"		"bot_pistols_only"
-		"3" "Solo Cuchillo"		"bot_knives_only"
-		"4" "Solo Snipers"		"bot_snipers_only"
+		"1" "Armamento Completo"			"bot_all_weapons"
+		"2" "Solo Pistolas"					"bot_pistols_only"
+		"3" "Solo Guanteletes / Cuchillo"	"bot_knives_only"
+		"4" "Solo Francotiradores (Snipers)"	"bot_snipers_only"
 	}
 }
 
-"4" "Servidor Local / Practica"
+"4" "[SIMULADOR] Servidor Local & Práctica"
 {
-	"1" "Reiniciar Ronda"				"sv_restart 1"
-	"2" "Dinero 16000"					"mp_startmoney 16000"
-	"3" "Tiempo de Ronda (5 Minutos)"	"mp_roundtime 5"
-	"4" "Sin Tiempo de Compra"			"mp_buytime 99"
-	"5" "Sin Congelacion Inicial"		"mp_freezetime 0"
-	"6" "Gravedad Normal (800)"			"sv_gravity 800"
-	"7" "Gravedad Baja (400)"			"sv_gravity 400"
+	"1" "Reiniciar Simulación (1 seg)"		"sv_restart 1"
+	"2" "Créditos Máximos ($16.000)"		"mp_startmoney 16000"
+	"3" "Tiempo de Ronda (5 Minutos)"		"mp_roundtime 5"
+	"4" "Zona de Compra Ilimitada"			"mp_buytime 99"
+	"5" "Inicio Instantáneo (Sin freeze)"	"mp_freezetime 0"
+	"6" "Gravedad Normal (800)"				"sv_gravity 800"
+	"7" "Baja Gravedad / Salto Lunar (400)"	"sv_gravity 400"
 }
 
-"5" "Cambiar de Equipo"	"chooseteam"
+"5" "[RED] Cambiar Facción de Combate"	"chooseteam"

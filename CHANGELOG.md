@@ -4,6 +4,16 @@ Todas las actualizaciones y mejoras del paquete de configuración, armaduras y m
 
 ---
 
+## [2.3.0] - 2026-11-08
+
+### 🦿 Modo Tercera Persona Cyberpunk (TPS Over-The-Shoulder)
+- **Cámara Externa Calibrada:** Ajuste automático a 90 unidades de distancia y elevación angular de 10° (`cam_idealpitch 10`, `cam_idealdist 90`) con detección y contención de colisiones con muros (`cam_contain 1`), dejando la retícula de disparo 100% visible sin que el casco tape la mira.
+- **Alternancia Rápida de Perspectiva (1 ms):** Teclas directas **`V`** y **`F5`** configuradas con alias en memoria para alternar instantáneamente entre vista en 3ra persona y vista clásica en 1ra persona.
+- **Selector de Perspectiva en Menú H (`commandmenu.txt`):** Nuevo menú `[CÁMARA] Perspectiva & Vista` con opciones directas de 3ra persona TPS y 1ra persona FPS.
+- **Lanzador Rápido:** Creación de `INICIAR_CS16_CYBERPUNK.bat` en la raíz del proyecto y acceso directo en el Escritorio.
+
+---
+
 ## [2.2.0] - 2026-11-08
 
 ### ⚡ Cyberpunk Overhaul (Fase 1: Despliegue Rápido)
