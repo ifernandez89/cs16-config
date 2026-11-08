@@ -9,31 +9,30 @@ Scheme
 	Colors
 	{
 		// base colors
-		"BaseText"		"255 176 0 255"	// used in text windows, lists
-		"BrightBaseText"	"255 176 0 255"	// brightest text
-		"SelectedText"		"255 176 0 255"	// selected text
-		"DimBaseText"		"255 176 0 255"	// dim base text
-		"LabelDimText"		"255 176 0 164"	// used for info text
-		"ControlText"		"255 176 0 255"	// used in all text controls
-		"BrightControlText"	"255 176 0 255"	// use for selected controls
-		"DisabledText1"		"80 48 0 255"	// disabled text
+		"BaseText"		"0 240 255 255"	// Cyberpunk Electric Cyan
+		"BrightBaseText"	"254 232 1 255"	// Cyberpunk Neon Yellow
+		"SelectedText"		"255 255 255 255"	// selected text
+		"DimBaseText"		"0 180 215 255"	// dim cyan base text
+		"LabelDimText"		"0 200 220 180"	// used for info text
+		"ControlText"		"0 240 255 255"	// used in all text controls
+		"BrightControlText"	"254 232 1 255"	// use for selected controls
+		"DisabledText1"		"40 60 75 255"	// disabled text
 		"DisabledText2"		"0 0 0 0"		// overlay color for disabled text (to give that inset look)
-		"DimListText"		"188 112 0 255"	// offline friends, unsubscribed games, etc.
+		"DimListText"		"0 160 195 255"	// offline friends, unsubscribed games, etc.
 
-		"ButtonFocusBorder"	"64 48 0 255"	// keyboard focus dashed line for buttons
+		"ButtonFocusBorder"	"0 240 255 255"	// keyboard focus dashed line for buttons
 
 		// background colors
 		"ControlBG"		"0 0 0 0"		// background color of most controls
-		"ButtonBG"		"0 0 0 64"		// background color of buttons
-		"ControlDarkBG"		"0 0 0 128"		// darker background color; used for background of scrollbars
-		"WindowBG"		"0 0 0 200"		// background color of text edit panes (chat, text entries, etc.)
-		//"SelectionBG"		"192 28 0 140"		// background color of any selected text or menu item
-		"SelectionBG"		"255 176 0 100"		// background color of any selected text or menu item
-		"SelectionBG2"		"255 255 255 16"	// selection background in window w/o focus
-		"ListBG"		"0 0 0 128"		// background of scoreboard
-		"ViewportBG"		"0 0 0 200"
-		"CareerBoxBG"		"0 0 0 227"
-		"Menu/BgColor"		"0 0 0 227"
+		"ButtonBG"		"10 14 20 160"		// background color of buttons
+		"ControlDarkBG"		"8 10 14 180"		// darker background color; used for background of scrollbars
+		"WindowBG"		"10 12 18 220"		// background color of text edit panes (chat, text entries, etc.)
+		"SelectionBG"		"0 240 255 80"		// background color of any selected text or menu item
+		"SelectionBG2"		"0 240 255 30"	// selection background in window w/o focus
+		"ListBG"		"10 12 18 200"		// background of scoreboard
+		"ViewportBG"		"10 12 18 220"
+		"CareerBoxBG"		"10 12 18 230"
+		"Menu/BgColor"		"10 12 18 230"
 
 		// Credits ------------------------------------------------
 		"CreditsNormalFG"	"255 255 255 255"
@@ -61,14 +60,14 @@ Scheme
 		"SliderTrackColor"	"31 31 31 255"
 
 		// border colors
-		"BorderBright"		"188 112 0 128"	// the lit side of a control
-		"BorderDark"		"188 112 0 128"	// the dark/unlit side of a control
-		"BorderSelection"		"188 112 0 0"	// the additional border color for displaying the default/selected button
-		"BorderBuyPreset"		"255 176 0 255"	// the lit side of a control
+		"BorderBright"		"0 240 255 200"	// Cyberpunk Cyan border
+		"BorderDark"		"0 120 160 140"	// Dark cyan border
+		"BorderSelection"		"254 232 1 255"	// Neon Yellow selection border
+		"BorderBuyPreset"		"0 240 255 255"	// Cyan lit side
 
-		"team0"			"204 204 204 255" // Spectators
-		"team1"			"255 64 64 255" // CT's
-		"team2"			"153 204 255 255" // T's
+		"team0"			"200 220 240 255" // Spectators
+		"team1"			"0 220 255 255" // CT's (Cyber Blue / Cyan)
+		"team2"			"255 50 70 255" // T's (Cyberpunk Neon Crimson)
 
 		// Statistics text
 		"StatisticsText"		"255 255 255 255"

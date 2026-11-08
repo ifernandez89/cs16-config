@@ -4,6 +4,25 @@ Todas las actualizaciones y mejoras del paquete de configuración, armaduras y m
 
 ---
 
+## [2.2.0] - 2026-11-08
+
+### ⚡ Cyberpunk Overhaul (Fase 1: Despliegue Rápido)
+- **👁️ Retícula Holográfica Cyberpunk para Francotiradores (`scope_arc*.tga`):**
+  - Sustitución de los bordes opacos del visor telescópico por una interfaz HUD de implante ocular Kiroshi con anillo de telemetría Cian Neón (`#00f0ff`) y marcas angulares cada 15° y 5° en Amarillo Eléctrico (`#fee801`).
+  - Diagnósticos de puntería en tiempo real en las cuatro esquinas: cálculo de viento, estado de batería, enlace HUD y compensador balístico.
+- **💥 Diseño Sonoro FX de Granadas y Explosivos Cyberpunk:**
+  - `flashbang`: Sobrecarga sensorial neuronal / glitch auditivo cibernético con modulación de frecuencia e implosión sub-grave.
+  - `hegrenade` & `explode3..5`: Detonación de pulso electromagnético (EMP) con golpe sónico en 50 Hz y descarga de plasma.
+  - `sg_explode`: Descompresión criogénica de nanopartículas con siseo presurizado y chasquido de apertura mecánica.
+  - `c4_explode1`: Explosión apocalíptica de ciber-núcleo con retumbe sísmico en 38 Hz y cola reverberante.
+- **🖥️ Esquema de Color Terminal Cyberpunk / Arasaka (`ClientScheme.res`):**
+  - Fondo en negro carbón profundo (`10 12 18`) con textos y bordes en Cian Eléctrico y Amarillo Neón.
+  - Equipos coloreados con iluminación fluorescente: Fuerzas Antiterroristas en Azul Cian Neón (`0 220 255`) y Fuerzas Terroristas en Carmesí Neón (`255 50 70`).
+- **🎵 Banda Sonora Darksynth del Menú Principal (`media/gamestartup.mp3`):**
+  - Pista original de música electrónica cyberpunk a 124 BPM generada por síntesis analógica, arpegios en Re menor y línea de bajo rodante que suena al iniciar el juego.
+
+---
+
 ## [2.1.0] - 2026-11-08
 
 ### 🛡️ Protección de Propiedad Intelectual & Repositorio Limpio
@@ -60,3 +79,4 @@ Todas las actualizaciones y mejoras del paquete de configuración, armaduras y m
 
 ## [1.0.0] - 2026-10-15
 - Lanzamiento inicial del repositorio con binds competitivos, más de 540 mapas personalizados y script de instalación base.
+
