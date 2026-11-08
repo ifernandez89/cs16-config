@@ -1,0 +1,15 @@
+// Detail texture mapping for fy_blackout.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+-0babfl	detail/dt_rough1	8.0	8.0
+-1babfl	detail/dt_rough1	8.0	8.0
+-2babfl	detail/dt_rough1	8.0	8.0
+WaterFX	detail/dt_rough1	8.0	8.0
+aaatrigger	detail/dt_rough1	8.0	8.0
+black	detail/dt_rough1	8.0	8.0
+creation	detail/dt_rough1	8.0	8.0
+glassblue2	detail/dt_rough1	8.0	8.0
+{door	detail/dt_metal1	12.0	12.0
+{ladder1	detail/dt_rough1	8.0	8.0
+{ladder2	detail/dt_rough1	8.0	8.0
+{ladder3a	detail/dt_rough1	8.0	8.0
+{ladder3b	detail/dt_rough1	8.0	8.0

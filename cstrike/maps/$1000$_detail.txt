@@ -1,0 +1,8 @@
+// Detail texture mapping for $1000$.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+aaatrigger	detail/dt_rough1	8.0	8.0
+babtech9d	detail/dt_rough1	8.0	8.0
+crete2_flr02	detail/dt_rough1	8.0	8.0
+crete3_flr05b	detail/dt_rough1	8.0	8.0
+crete4_flr01	detail/dt_rough1	8.0	8.0
+cstrike_wb6pln3	detail/dt_rough1	8.0	8.0

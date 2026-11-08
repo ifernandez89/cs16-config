@@ -1,0 +1,27 @@
+// Detail texture mapping for aim_recoil2k4_cz.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+3dmsnowwood3	detail/dt_wood1	8.0	8.0
+AAATRIGGER	detail/dt_rough1	8.0	8.0
+boxsides_d031	detail/dt_wood1	8.0	8.0
+boxtops_d03	detail/dt_wood1	8.0	8.0
+bunk_wall6_1	detail/dt_stone1	10.0	10.0
+clip	detail/dt_rough1	8.0	8.0
+dirt_dry01	detail/dt_ground1	8.0	8.0
+metal_bord07	detail/dt_metal1	12.0	12.0
+misc_hay	detail/dt_rough1	8.0	8.0
+misc_wpn_crate	detail/dt_wood1	8.0	8.0
+misc_wpn_crate3	detail/dt_wood1	8.0	8.0
+plaster_wall1_9	detail/dt_stone1	10.0	10.0
+plasterwall1_12	detail/dt_stone1	10.0	10.0
+sidewalk1_18	detail/dt_conc	10.0	10.0
+sidewalk1_3	detail/dt_conc	10.0	10.0
+sidewalk1_4	detail/dt_conc	10.0	10.0
+sky	detail/dt_rough1	8.0	8.0
+wall_facade1_2	detail/dt_stone1	10.0	10.0
+wall_facade2_1	detail/dt_stone1	10.0	10.0
+wall_facade2_2	detail/dt_stone1	10.0	10.0
+wall_facade3_1	detail/dt_stone1	10.0	10.0
+wall_facade3_2	detail/dt_stone1	10.0	10.0
+wall_tilearch02	detail/dt_stone1	10.0	10.0
+wall_tilebrdr01	detail/dt_stone1	10.0	10.0
+wall_tilebrdr09	detail/dt_stone1	10.0	10.0

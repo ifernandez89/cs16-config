@@ -1,0 +1,22 @@
+// Detail texture mapping for aim_headshot.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+-0AzDirt	detail/dt_ground1	8.0	8.0
+-0AzMoss	detail/dt_rough1	8.0	8.0
+-0AzWll	detail/dt_rough1	8.0	8.0
+-1AzDirt	detail/dt_ground1	8.0	8.0
+-1AzMoss	detail/dt_rough1	8.0	8.0
+-1AzWll	detail/dt_rough1	8.0	8.0
+-2AzDirt	detail/dt_ground1	8.0	8.0
+-3AzDirt	detail/dt_ground1	8.0	8.0
+AzGrass	detail/dt_rough1	8.0	8.0
+AzStatB	detail/dt_rough1	8.0	8.0
+AzStatC	detail/dt_rough1	8.0	8.0
+AzTrim	detail/dt_rough1	8.0	8.0
+MltryCrteSd2	detail/dt_rough1	8.0	8.0
+MltryCrteTp	detail/dt_rough1	8.0	8.0
+WoodCrateLid	detail/dt_wood1	8.0	8.0
+WoodCrateLidSm	detail/dt_wood1	8.0	8.0
+WoodCrateSd	detail/dt_wood1	8.0	8.0
+WoodCrateSdSm	detail/dt_wood1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+{invisible	detail/dt_rough1	8.0	8.0

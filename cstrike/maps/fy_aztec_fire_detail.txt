@@ -1,0 +1,22 @@
+// Detail texture mapping for fy_aztec_fire.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+-0AzDirt	detail/dt_ground1	8.0	8.0
+-0AzMoss	detail/dt_rough1	8.0	8.0
+-0AzWll	detail/dt_rough1	8.0	8.0
+-1AzDirt	detail/dt_ground1	8.0	8.0
+-1AzMoss	detail/dt_rough1	8.0	8.0
+-1AzWll	detail/dt_rough1	8.0	8.0
+-2AzDirt	detail/dt_ground1	8.0	8.0
+-3AzDirt	detail/dt_ground1	8.0	8.0
+AAATRIGGER	detail/dt_rough1	8.0	8.0
+AzGrnd	detail/dt_rough1	8.0	8.0
+AzRoad	detail/dt_conc	10.0	10.0
+AzStatB	detail/dt_rough1	8.0	8.0
+AzTrim	detail/dt_rough1	8.0	8.0
+CLIP	detail/dt_rough1	8.0	8.0
+buldozzer	detail/dt_rough1	8.0	8.0
+csiptcom	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+white	detail/dt_rough1	8.0	8.0
+wood_crate_sd	detail/dt_wood1	8.0	8.0
+{ladder1	detail/dt_rough1	8.0	8.0

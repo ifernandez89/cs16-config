@@ -1,0 +1,13 @@
+// Detail texture mapping for cs_batalla.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+aaatrigger	detail/dt_rough1	8.0	8.0
+auffeomme	detail/dt_rough1	8.0	8.0
+clip	detail/dt_rough1	8.0	8.0
+crossover04	detail/dt_rough1	8.0	8.0
+ctx_made	detail/dt_rough1	8.0	8.0
+gate02	detail/dt_metal1	12.0	12.0
+glassblue1	detail/dt_rough1	8.0	8.0
+out_ground9	detail/dt_ground1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+t_crate11	detail/dt_wood1	8.0	8.0
+{razor1	detail/dt_rough1	8.0	8.0

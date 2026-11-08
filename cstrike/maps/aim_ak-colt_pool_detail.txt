@@ -1,0 +1,19 @@
+// Detail texture mapping for aim_ak-colt_pool.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+!poolwater	detail/dt_rough1	8.0	8.0
++0~light5a	detail/dt_rough1	8.0	8.0
++a~light5a	detail/dt_rough1	8.0	8.0
+aaatrigger	detail/dt_rough1	8.0	8.0
+cinder-1	detail/dt_rough1	8.0	8.0
+clip	detail/dt_rough1	8.0	8.0
+fliesen	detail/dt_rough1	8.0	8.0
+glass_bright	detail/dt_rough1	8.0	8.0
+highway-side-1	detail/dt_rough1	8.0	8.0
+ind-white-rusty	detail/dt_rough1	8.0	8.0
+metal-red	detail/dt_metal1	12.0	12.0
+sky	detail/dt_rough1	8.0	8.0
+stw-base	detail/dt_rough1	8.0	8.0
+tnnl_w4b2	detail/dt_rough1	8.0	8.0
+wood_trim	detail/dt_wood1	8.0	8.0
+{ladder2	detail/dt_rough1	8.0	8.0
+~light5a	detail/dt_rough1	8.0	8.0

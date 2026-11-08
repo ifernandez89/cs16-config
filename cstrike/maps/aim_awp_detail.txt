@@ -1,0 +1,16 @@
+// Detail texture mapping for aim_awp.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+aaatrigger	detail/dt_rough1	8.0	8.0
+clip	detail/dt_rough1	8.0	8.0
+comments	detail/dt_rough1	8.0	8.0
+cxbrickiend	detail/dt_stone1	10.0	10.0
+cxcnstrctwooda	detail/dt_wood1	8.0	8.0
+cxcnstrctwoodb	detail/dt_wood1	8.0	8.0
+cxgroundd	detail/dt_ground1	8.0	8.0
+cxmarblee	detail/dt_rough1	8.0	8.0
+cxwoodm	detail/dt_wood1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+{bridge	detail/dt_rough1	8.0	8.0
+{dmcgrassb	detail/dt_rough1	8.0	8.0
+{ladder	detail/dt_rough1	8.0	8.0
+{side_rail	detail/dt_rough1	8.0	8.0

@@ -1,0 +1,24 @@
+// Detail texture mapping for de_dust5.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+!waterblue	detail/dt_rough1	8.0	8.0
++0trrm_trg1	detail/dt_rough1	8.0	8.0
++atrrm_trg1	detail/dt_rough1	8.0	8.0
+-0Sand	detail/dt_ground1	8.0	8.0
+-0csSandWall	detail/dt_ground1	8.0	8.0
+-1Sand	detail/dt_ground1	8.0	8.0
+-1csSandWall	detail/dt_ground1	8.0	8.0
+-2Sand	detail/dt_ground1	8.0	8.0
+-3Sand	detail/dt_ground1	8.0	8.0
+MltryCrteSd	detail/dt_rough1	8.0	8.0
+MltryCrteTp	detail/dt_rough1	8.0	8.0
+SandCCrete	detail/dt_ground1	8.0	8.0
+SandCrtLrgSd	detail/dt_ground1	8.0	8.0
+SandCrtSmSd	detail/dt_ground1	8.0	8.0
+SandRoad	detail/dt_ground1	8.0	8.0
+SandTrim	detail/dt_ground1	8.0	8.0
+SandWllDoor2	detail/dt_ground1	8.0	8.0
+SandWllWndw	detail/dt_ground1	8.0	8.0
+aaatrigger	detail/dt_rough1	8.0	8.0
+clip	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+{ladder1	detail/dt_rough1	8.0	8.0

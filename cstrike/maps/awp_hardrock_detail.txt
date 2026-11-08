@@ -1,0 +1,13 @@
+// Detail texture mapping for awp_hardrock.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+clip	detail/dt_rough1	8.0	8.0
+crete4_flr03	detail/dt_rough1	8.0	8.0
+pi_bigbrk2	detail/dt_rough1	8.0	8.0
+pi_floorst3	detail/dt_wood1	8.0	8.0
+pi_floorst3d	detail/dt_wood1	8.0	8.0
+pi_outwall1	detail/dt_stone1	10.0	10.0
+pi_outwall2	detail/dt_stone1	10.0	10.0
+pi_outwall2b	detail/dt_stone1	10.0	10.0
+pi_outwall2t	detail/dt_stone1	10.0	10.0
+pi_steptop1d	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0

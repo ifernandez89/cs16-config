@@ -1,0 +1,8 @@
+// Detail texture mapping for fy_aztec_mini.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+-0AzMoss	detail/dt_rough1	8.0	8.0
+-0AzWll	detail/dt_rough1	8.0	8.0
+-1AzMoss	detail/dt_rough1	8.0	8.0
+-1AzWll	detail/dt_rough1	8.0	8.0
+AzGrnd	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0

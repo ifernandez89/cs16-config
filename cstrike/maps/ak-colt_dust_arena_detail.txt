@@ -1,0 +1,25 @@
+// Detail texture mapping for ak-colt_dust_arena.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+-0Sand	detail/dt_ground1	8.0	8.0
+-0csSandWall	detail/dt_ground1	8.0	8.0
+-1Sand	detail/dt_ground1	8.0	8.0
+-1csSandWall	detail/dt_ground1	8.0	8.0
+-2Sand	detail/dt_ground1	8.0	8.0
+-3Sand	detail/dt_ground1	8.0	8.0
+MltryCrteSd	detail/dt_rough1	8.0	8.0
+MltryCrteSd2	detail/dt_rough1	8.0	8.0
+MltryCrteTp	detail/dt_rough1	8.0	8.0
+SandCCrete	detail/dt_ground1	8.0	8.0
+SandCrtLrgSd	detail/dt_ground1	8.0	8.0
+SandCrtLrgTp	detail/dt_ground1	8.0	8.0
+SandCrtSmSd	detail/dt_ground1	8.0	8.0
+SandCrtSmTp	detail/dt_ground1	8.0	8.0
+SandRoad	detail/dt_ground1	8.0	8.0
+SandTrim	detail/dt_ground1	8.0	8.0
+SandWllDoor	detail/dt_ground1	8.0	8.0
+SandWllDoor2	detail/dt_ground1	8.0	8.0
+SandWllWndw	detail/dt_ground1	8.0	8.0
+black	detail/dt_rough1	8.0	8.0
+pp	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+white	detail/dt_rough1	8.0	8.0

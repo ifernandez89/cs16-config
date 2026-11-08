@@ -1,0 +1,20 @@
+// Detail texture mapping for cs_deagle5.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
++0lab1_w7	detail/dt_rough1	8.0	8.0
++alab1_w7	detail/dt_rough1	8.0	8.0
+-0silo2_cor2	detail/dt_rough1	8.0	8.0
+-1silo2_cor2	detail/dt_rough1	8.0	8.0
+-2silo2_cor2	detail/dt_rough1	8.0	8.0
+aaatrigger	detail/dt_rough1	8.0	8.0
+c3a1_w3a	detail/dt_rough1	8.0	8.0
+c3a1_w5b	detail/dt_rough1	8.0	8.0
+crate13	detail/dt_wood1	8.0	8.0
+crete3_ceil01	detail/dt_rough1	8.0	8.0
+metal_bord01	detail/dt_metal1	12.0	12.0
+metal_bord08	detail/dt_metal1	12.0	12.0
+silo2_cor	detail/dt_rough1	8.0	8.0
+stripes2	detail/dt_rough1	8.0	8.0
+{grate1	detail/dt_metal1	12.0	12.0
+{ladder3a	detail/dt_rough1	8.0	8.0
+{rail1c	detail/dt_rough1	8.0	8.0
+~light5a	detail/dt_rough1	8.0	8.0

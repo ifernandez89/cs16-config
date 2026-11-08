@@ -1,0 +1,11 @@
+// Detail texture mapping for aim_ak-colt-deluxe.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+-0out_crt2a	detail/dt_rough1	8.0	8.0
+-1out_crt2a	detail/dt_rough1	8.0	8.0
+-2out_crt2a	detail/dt_rough1	8.0	8.0
+-3out_crt2a	detail/dt_rough1	8.0	8.0
+daank_grass	detail/dt_rough1	8.0	8.0
+out_roof1	detail/dt_rough1	8.0	8.0
+out_roof3	detail/dt_rough1	8.0	8.0
+pi_outwall4	detail/dt_stone1	10.0	10.0
+sky	detail/dt_rough1	8.0	8.0

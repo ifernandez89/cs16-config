@@ -1,0 +1,19 @@
+// Detail texture mapping for aim_aztecplace.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+-0AzDirt	detail/dt_ground1	8.0	8.0
+-0AzWll	detail/dt_rough1	8.0	8.0
+-1AzDirt	detail/dt_ground1	8.0	8.0
+-1AzWll	detail/dt_rough1	8.0	8.0
+-2AzDirt	detail/dt_ground1	8.0	8.0
+-3AzDirt	detail/dt_ground1	8.0	8.0
+AzGrnd	detail/dt_rough1	8.0	8.0
+AzRoad	detail/dt_conc	10.0	10.0
+AzStatA	detail/dt_rough1	8.0	8.0
+AzStatB	detail/dt_rough1	8.0	8.0
+AzStatC	detail/dt_rough1	8.0	8.0
+AzTrim	detail/dt_rough1	8.0	8.0
+NULL	detail/dt_rough1	8.0	8.0
+WoodCrateLid	detail/dt_wood1	8.0	8.0
+aaatrigger	detail/dt_rough1	8.0	8.0
+clip	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0

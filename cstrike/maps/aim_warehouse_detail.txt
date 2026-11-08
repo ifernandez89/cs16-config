@@ -1,0 +1,19 @@
+// Detail texture mapping for aim_warehouse.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
++0~tnnl_lgt2	detail/dt_rough1	8.0	8.0
++a~tnnl_lgt2	detail/dt_rough1	8.0	8.0
+-0out_crt2a	detail/dt_rough1	8.0	8.0
+-0tnnl_crt1	detail/dt_rough1	8.0	8.0
+-1out_crt2a	detail/dt_rough1	8.0	8.0
+-1tnnl_crt1	detail/dt_rough1	8.0	8.0
+-2out_crt2a	detail/dt_rough1	8.0	8.0
+-2tnnl_crt1	detail/dt_rough1	8.0	8.0
+-3out_crt2a	detail/dt_rough1	8.0	8.0
+-3tnnl_crt1	detail/dt_rough1	8.0	8.0
+aaatrigger	detail/dt_rough1	8.0	8.0
+babtech_bordl7	detail/dt_rough1	8.0	8.0
+crete3_wall01	detail/dt_stone1	10.0	10.0
+out_w6	detail/dt_rough1	8.0	8.0
+tnnl_w6_2	detail/dt_rough1	8.0	8.0
+{ladder2	detail/dt_rough1	8.0	8.0
+{tension4	detail/dt_rough1	8.0	8.0

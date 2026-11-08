@@ -1,0 +1,19 @@
+// Detail texture mapping for aim_map_hlo.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+-0cstrike_ca2st	detail/dt_rough1	8.0	8.0
+-1cstrike_ca2st	detail/dt_rough1	8.0	8.0
+bcrate18	detail/dt_wood1	8.0	8.0
+c1a4_c1c	detail/dt_rough1	8.0	8.0
+c1a4b_w2	detail/dt_rough1	8.0	8.0
+clip	detail/dt_rough1	8.0	8.0
+crate02b	detail/dt_wood1	8.0	8.0
+crete3_flr05b	detail/dt_rough1	8.0	8.0
+cstrike_ft4apht	detail/dt_rough1	8.0	8.0
+generic015h	detail/dt_rough1	8.0	8.0
+hlo	detail/dt_rough1	8.0	8.0
+hlo_www	detail/dt_rough1	8.0	8.0
+out_dirt1	detail/dt_ground1	8.0	8.0
+out_w5	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+tnnl_flr12a	detail/dt_rough1	8.0	8.0
+tnnl_flr6b	detail/dt_rough1	8.0	8.0

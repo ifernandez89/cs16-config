@@ -1,0 +1,13 @@
+// Detail texture mapping for aim_aztec_deagle.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+AzStatA	detail/dt_rough1	8.0	8.0
+AzStatB	detail/dt_rough1	8.0	8.0
+AzStatC	detail/dt_rough1	8.0	8.0
+AzStone02	detail/dt_stone1	10.0	10.0
+WoodCrateLid	detail/dt_wood1	8.0	8.0
+WoodCrateSd	detail/dt_wood1	8.0	8.0
+azgrss	detail/dt_rough1	8.0	8.0
+clip	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+{LOGO	detail/dt_rough1	8.0	8.0
+{azcal	detail/dt_rough1	8.0	8.0

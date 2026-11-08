@@ -1,0 +1,21 @@
+// Detail texture mapping for aim_aztec2003.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+!toxicgrn	detail/dt_rough1	8.0	8.0
+-0AzDirt	detail/dt_ground1	8.0	8.0
+-0AzMoss	detail/dt_rough1	8.0	8.0
+-0AzWll	detail/dt_rough1	8.0	8.0
+-0cstrike_fj2dk	detail/dt_rough1	8.0	8.0
+-1AzDirt	detail/dt_ground1	8.0	8.0
+-1AzMoss	detail/dt_rough1	8.0	8.0
+-1AzWll	detail/dt_rough1	8.0	8.0
+-2AzDirt	detail/dt_ground1	8.0	8.0
+-3AzDirt	detail/dt_ground1	8.0	8.0
+AzGrass	detail/dt_rough1	8.0	8.0
+AzRoad	detail/dt_conc	10.0	10.0
+AzStatA	detail/dt_rough1	8.0	8.0
+AzTrim	detail/dt_rough1	8.0	8.0
+aim_aztecsign	detail/dt_rough1	8.0	8.0
+black	detail/dt_rough1	8.0	8.0
+lab1_stair2b	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+{vine1	detail/dt_rough1	8.0	8.0

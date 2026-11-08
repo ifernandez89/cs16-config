@@ -1,0 +1,6 @@
+// Detail texture mapping for aim_sg552-aug.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+-0cstrike_wb6bk	detail/dt_rough1	8.0	8.0
+-1cstrike_wb6bk	detail/dt_rough1	8.0	8.0
+AzRoad	detail/dt_conc	10.0	10.0
+pl_rrw	detail/dt_rough1	8.0	8.0

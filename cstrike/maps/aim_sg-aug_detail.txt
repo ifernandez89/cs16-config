@@ -1,0 +1,22 @@
+// Detail texture mapping for aim_sg-aug.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
++0cstrike_se4sw	detail/dt_rough1	8.0	8.0
++acstrike_se4sw	detail/dt_rough1	8.0	8.0
+Brick05b	detail/dt_stone1	10.0	10.0
+Brick11	detail/dt_stone1	10.0	10.0
+Concrete01	detail/dt_conc	10.0	10.0
+Core_Urban_067	detail/dt_rough1	8.0	8.0
+Core_Urban_120	detail/dt_rough1	8.0	8.0
+Core_Urban_198	detail/dt_rough1	8.0	8.0
+asphalt01	detail/dt_conc	10.0	10.0
+bcontainer1	detail/dt_rough1	8.0	8.0
+bcontainer2	detail/dt_rough1	8.0	8.0
+bcontainer3	detail/dt_rough1	8.0	8.0
+cstrike_fe2sqrs	detail/dt_rough1	8.0	8.0
+cstrike_fe4crgd	detail/dt_rough1	8.0	8.0
+cstrike_fp2dark	detail/dt_rough1	8.0	8.0
+cstrike_me2rstw	detail/dt_rough1	8.0	8.0
+cstrike_me4dcln	detail/dt_rough1	8.0	8.0
+cstrike_me7caut	detail/dt_rough1	8.0	8.0
+of_crate03b	detail/dt_wood1	8.0	8.0
+of_crate03d	detail/dt_wood1	8.0	8.0

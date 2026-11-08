@@ -1,0 +1,20 @@
+// Detail texture mapping for cs_bloodstrike.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+-0babtech_c5	detail/dt_rough1	8.0	8.0
+-0babtech_flr10	detail/dt_rough1	8.0	8.0
+-0lab3_flr1	detail/dt_rough1	8.0	8.0
+-1babtech_c5	detail/dt_rough1	8.0	8.0
+-1babtech_flr10	detail/dt_rough1	8.0	8.0
+-1lab3_flr1	detail/dt_rough1	8.0	8.0
+-2babtech_c5	detail/dt_rough1	8.0	8.0
+-2babtech_flr10	detail/dt_rough1	8.0	8.0
+-2lab3_flr1	detail/dt_rough1	8.0	8.0
+-3babtech_c5	detail/dt_rough1	8.0	8.0
+-3babtech_flr10	detail/dt_rough1	8.0	8.0
+babtech9d	detail/dt_rough1	8.0	8.0
+c1a1_flr2c	detail/dt_rough1	8.0	8.0
+c1a3wall05	detail/dt_stone1	10.0	10.0
+crete2_flr02	detail/dt_rough1	8.0	8.0
+cstrike_wb6pln3	detail/dt_rough1	8.0	8.0
+~light5a	detail/dt_rough1	8.0	8.0
+~light5e	detail/dt_rough1	8.0	8.0

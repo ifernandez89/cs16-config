@@ -1,0 +1,21 @@
+// Detail texture mapping for aim_desertfort.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+-0cstrike_wr3cc	detail/dt_rough1	8.0	8.0
+-0fifties_w12b	detail/dt_rough1	8.0	8.0
+-1cstrike_wr3cc	detail/dt_rough1	8.0	8.0
+-1fifties_w12b	detail/dt_rough1	8.0	8.0
+-2cstrike_wr3cc	detail/dt_rough1	8.0	8.0
+-3cstrike_wr3cc	detail/dt_rough1	8.0	8.0
+-4cstrike_wr3cc	detail/dt_rough1	8.0	8.0
+-5cstrike_wr3cc	detail/dt_rough1	8.0	8.0
+aaatrigger	detail/dt_rough1	8.0	8.0
+basewall04b	detail/dt_stone1	10.0	10.0
+bcrate02	detail/dt_wood1	8.0	8.0
+clip	detail/dt_rough1	8.0	8.0
+cstrike_cr2pln	detail/dt_rough1	8.0	8.0
+out_snbag	detail/dt_rough1	8.0	8.0
+out_snd2	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+{blue	detail/dt_rough1	8.0	8.0
+{ladder3a	detail/dt_rough1	8.0	8.0
+{razor1	detail/dt_rough1	8.0	8.0

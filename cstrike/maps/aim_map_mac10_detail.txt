@@ -1,0 +1,8 @@
+// Detail texture mapping for aim_map_mac10.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+Core_Urban_051	detail/dt_rough1	8.0	8.0
+c1a0_labflre	detail/dt_rough1	8.0	8.0
+clip	detail/dt_rough1	8.0	8.0
+crete3_wall01	detail/dt_stone1	10.0	10.0
+cxgroundd	detail/dt_ground1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0

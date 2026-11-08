@@ -1,0 +1,19 @@
+// Detail texture mapping for fy_bloody_snow.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
++0~tnnl_lgt2	detail/dt_rough1	8.0	8.0
+3dmglet02	detail/dt_rough1	8.0	8.0
+3dmglets2	detail/dt_rough1	8.0	8.0
+3dmsnowrock1	detail/dt_stone1	10.0	10.0
+3dmsnowrock2	detail/dt_stone1	10.0	10.0
+3dmsnowrock3	detail/dt_stone1	10.0	10.0
+Fade	detail/dt_rough1	8.0	8.0
+NULL	detail/dt_rough1	8.0	8.0
+andre	detail/dt_rough1	8.0	8.0
+br	detail/dt_rough1	8.0	8.0
+clip	detail/dt_rough1	8.0	8.0
+e8beam01	detail/dt_rough1	8.0	8.0
+e8bolttrim	detail/dt_rough1	8.0	8.0
+origin	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+snow	detail/dt_rough1	8.0	8.0
+{e8xgirder	detail/dt_rough1	8.0	8.0

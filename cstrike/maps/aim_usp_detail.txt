@@ -1,0 +1,12 @@
+// Detail texture mapping for aim_usp.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+aaatrigger	detail/dt_rough1	8.0	8.0
+c1a3wall08	detail/dt_stone1	10.0	10.0
+crate13	detail/dt_wood1	8.0	8.0
+crete3_wall02	detail/dt_stone1	10.0	10.0
+crete4_wall01	detail/dt_stone1	10.0	10.0
+out_galv1	detail/dt_rough1	8.0	8.0
+panellite1	detail/dt_rough1	8.0	8.0
+{grate1	detail/dt_metal1	12.0	12.0
+{grate4a	detail/dt_metal1	12.0	12.0
+{ladder3b	detail/dt_rough1	8.0	8.0

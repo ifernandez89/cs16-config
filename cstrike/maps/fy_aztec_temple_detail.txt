@@ -1,0 +1,16 @@
+// Detail texture mapping for fy_aztec_temple.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+-0Sand	detail/dt_ground1	8.0	8.0
+-1Sand	detail/dt_ground1	8.0	8.0
+-2Sand	detail/dt_ground1	8.0	8.0
+-3Sand	detail/dt_ground1	8.0	8.0
+SandCCrete	detail/dt_ground1	8.0	8.0
+c1a3c_map	detail/dt_rough1	8.0	8.0
+generic71	detail/dt_rough1	8.0	8.0
+generic91b	detail/dt_rough1	8.0	8.0
+generic98e	detail/dt_rough1	8.0	8.0
+generic_110a	detail/dt_rough1	8.0	8.0
+graphit4	detail/dt_rough1	8.0	8.0
+picture7	detail/dt_rough1	8.0	8.0
+pinupxena4	detail/dt_rough1	8.0	8.0
+sign62	detail/dt_rough1	8.0	8.0

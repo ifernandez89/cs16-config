@@ -1,0 +1,10 @@
+// Detail texture mapping for fy_bomberman.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+black	detail/dt_rough1	8.0	8.0
+bomb06	detail/dt_rough1	8.0	8.0
+bomb07	detail/dt_rough1	8.0	8.0
+bomb08	detail/dt_rough1	8.0	8.0
+bomb09	detail/dt_rough1	8.0	8.0
+bomb10	detail/dt_rough1	8.0	8.0
+bomber11	detail/dt_rough1	8.0	8.0
+bomber12	detail/dt_rough1	8.0	8.0

@@ -1,0 +1,20 @@
+// Detail texture mapping for aim_map.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+-0Sand	detail/dt_ground1	8.0	8.0
+-0csSandWall	detail/dt_ground1	8.0	8.0
+-1Sand	detail/dt_ground1	8.0	8.0
+-1csSandWall	detail/dt_ground1	8.0	8.0
+-2Sand	detail/dt_ground1	8.0	8.0
+-3Sand	detail/dt_ground1	8.0	8.0
+MltryCrteSd2	detail/dt_rough1	8.0	8.0
+MltryCrteTp	detail/dt_rough1	8.0	8.0
+SandCCrete	detail/dt_ground1	8.0	8.0
+SandCrtLrgSd	detail/dt_ground1	8.0	8.0
+SandCrtLrgTp	detail/dt_ground1	8.0	8.0
+SandCrtSmSd	detail/dt_ground1	8.0	8.0
+SandTrim	detail/dt_ground1	8.0	8.0
+SandWllDoor	detail/dt_ground1	8.0	8.0
+SandWllWndw	detail/dt_ground1	8.0	8.0
+aaatrigger	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+xcrate9d	detail/dt_wood1	8.0	8.0
