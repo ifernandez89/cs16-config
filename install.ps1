@@ -1,16 +1,26 @@
-# Script de Instalacion Automatica para CS 1.6 Config
+# Script de Instalacion Automatica para CS 1.6 - Master Suite & Modpack
 
 $scriptPath = $PSScriptRoot
 $sourceCstrike = Join-Path $scriptPath "cstrike"
 
 $targetPaths = @(
     "$env:LOCALAPPDATA\VirtualStore\Program Files (x86)\Counter-Strike 1.6\cstrike",
-    "C:\Program Files (x86)\Counter-Strike 1.6\cstrike"
+    "$env:LOCALAPPDATA\VirtualStore\Program Files (x86)\Counter-Strike 1.6\cstrike_spanish",
+    "C:\Program Files (x86)\Counter-Strike 1.6\cstrike",
+    "C:\Program Files (x86)\Counter-Strike 1.6\cstrike_spanish"
 )
 
-Write-Host "==========================================" -ForegroundColor Cyan
-Write-Host "Instalador de Config Counter-Strike 1.6" -ForegroundColor Yellow
-Write-Host "==========================================" -ForegroundColor Cyan
+Write-Host "==============================================================" -ForegroundColor Cyan
+Write-Host "  COUNTER-STRIKE 1.6 - MASTER MODPACK & CONFIG INSTALLER" -ForegroundColor Yellow
+Write-Host "==============================================================" -ForegroundColor Cyan
+Write-Host "  Contenido incluido:" -ForegroundColor Gray
+Write-Host "  - 9 Armaduras Hall of Heroes / Tech Crew (CT, T & VIP)" -ForegroundColor White
+Write-Host "  - Guanteletes Repulsores en 1ra persona (v_knife)" -ForegroundColor White
+Write-Host "  - Armamento con guantes tácticos de fibra de carbono" -ForegroundColor White
+Write-Host "  - Sonidos de disparo y recarga remasterizados (Punch & Reverb)" -ForegroundColor White
+Write-Host "  - Radio Táctica con Asistente de IA (Protocolo NEXO)" -ForegroundColor White
+Write-Host "  - Tarjetas VGUI de telemetría y config competitiva" -ForegroundColor White
+Write-Host "==============================================================" -ForegroundColor Cyan
 
 $installed = $false
 
@@ -22,7 +32,7 @@ foreach ($target in $targetPaths) {
         }
         try {
             Copy-Item -Path "$sourceCstrike\*" -Destination $target -Recurse -Force -ErrorAction Stop
-            Write-Host "[OK] Configuracion instalada exitosamente en: $target" -ForegroundColor Green
+            Write-Host "[OK] Suite instalada exitosamente en: $target" -ForegroundColor Green
             $installed = $true
         } catch {
             Write-Host "[INFO] No se pudo escribir directamente en $target (permisos reducidos)." -ForegroundColor DarkGray

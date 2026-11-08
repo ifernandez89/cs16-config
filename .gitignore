@@ -3,7 +3,16 @@ Thumbs.db
 Desktop.ini
 .ds_store
 
-# Temporary logs
+# Temporary logs & builds
 *.log
 *.tmp
+*.bak
+*.orig
 scratch/
+temp_*/
+sound_weapons_orig_backup/
+
+# Modding tools & compilation binaries
+tools/
+scripts/
+
