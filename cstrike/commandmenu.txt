@@ -64,4 +64,15 @@
 	"7" "Baja Gravedad / Salto Lunar (400)"	"sv_gravity 400"
 }
 
-"5" "[RED] Cambiar Facción de Combate"	"chooseteam"
+"5" "[COD ZOMBIES] Modo Supervivencia"
+{
+	"1" "Activar Modo Nazi Zombies"			"exec cod_zombies.cfg"
+	"2" "Menu de Ventajas (Perk-a-Cola)"	"cod_perks"
+	"3" "Tirar de Caja Misteriosa ($950)"	"cod_box"
+	"4" "Añadir 2 Zombis a la Horda"		"bot_add_t; bot_add_t"
+	"5" "Eliminar Zombis Activos (Kill)"	"bot_kill"
+	"6" "Forzar Siguiente Ronda CoD"		"cod_nextround"
+	"7" "Reiniciar Partida Zombies"			"cod_restart"
+}
+
+"6" "[RED] Cambiar Facción de Combate"	"chooseteam"

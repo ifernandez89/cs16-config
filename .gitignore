@@ -3,6 +3,10 @@ Thumbs.db
 Desktop.ini
 .ds_store
 
+# Crash dumps & GoldSrc cache
+*.mdmp
+*.ztmp
+
 # Temporary logs & builds
 *.log
 *.tmp
@@ -10,7 +14,18 @@ Desktop.ini
 *.orig
 scratch/
 temp_*/
+logs/
+cstrike/logs/
+valve/logs/
 sound_weapons_orig_backup/
+
+# Archives & compressed packs
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.iso
 
 # Modding tools & compilation binaries
 tools/
@@ -18,9 +33,16 @@ scripts/
 cstrike/media/
 cstrike/addons/
 cstrike/models/rpgrocket.mdl
-*.zip
 *.amxx
 test_*.cfg
 mm_plugins.txt
+
+# In-game demo recordings
+*.dem
+
+# IDE & Editor user settings
+.vs/
+*.suo
+*.user
 
 

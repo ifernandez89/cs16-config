@@ -4,6 +4,41 @@ Todas las actualizaciones y mejoras del paquete de configuración, armaduras y m
 
 ---
 
+## [2.6.0] - 2026-11-09
+
+### 🧟 Modo Call of Duty: World at War — Nazi Zombies Classic
+- **🌊 Sistema de Oleadas Progresivas (Wave Survival):**
+  - Progresión infinita de rondas inspirada en *Nacht der Untoten*: inicio de ronda con sirena atmosférica, HUD con contador de zombis restantes en tiempo real y 7 segundos de intermisión musical al superar cada oleada.
+  - Escalado dinámico de la horda: los zombis incrementan su salud ($80 + \text{Ronda} \times 35$ HP) y su velocidad de desplazamiento ($240 + \text{Ronda} \times 7$ u/s) conforme avanzan las rondas.
+  - Resurgimiento continuo de bots en combate (respawn en 2s) para mantener la presión de la horda hasta agotar la reserva de la ronda.
+- **💰 Economía de Puntos CoD:**
+  - Recompensa instantánea en efectivo: $+10$ créditos por bala impactada ($+20$ con Puntos Dobles), $+50$ por baja estándar, $+100$ por disparo a la cabeza (Headshot) y $+130$ por baja con arma blanca / cuchillo.
+  - Sonido discreto de confirmación de impacto (*hitmarker*).
+- **🥤 Máquina de Ventajas Perk-a-Cola (`/perks` o Tecla P):**
+  - **Juggernog ($2.500):** Aumenta la salud máxima a 250 HP y absorbe un 30% del daño recibido.
+  - **Speed Cola ($3.000):** Incrementa la velocidad de movimiento a 320 u/s y acelera la movilidad táctica.
+  - **Double Tap Root Beer ($2.000):** Multiplica por $1.5\times$ (+50%) el daño de todas las balas disparadas.
+  - **Quick Revive ($1.500):** Sistema de segunda oportunidad con reanimación automática y escudo verde si la salud cae a niveles críticos.
+- **📦 Caja Misteriosa ($950) (`/box` o Tecla B):**
+  - Ruleta aleatoria de armas de alto calibre: AK-47, M4A1, ametralladora pesada M249 Para, francotirador AWP, escopeta automática XM1014, Desert Eagle, Berettas Duales y subfusil P90.
+  - Posibilidad de aparición del "Osito de Samantha" con risa siniestra y reseteo de tirada.
+- **✨ Potenciadores Aleatorios en el Campo (Power-Ups):**
+  - Probabilidad de 8% en cada baja de zombi de activar bonificaciones globales:
+    - **Munición Máxima (Max Ammo):** Recarga total de cartuchos y reservas para todos los supervivientes.
+    - **Baja Instantánea (Insta-Kill):** Eliminación de zombis de un solo disparo durante 25 segundos.
+    - **Bomba Nuclear (Nuke):** Pulso blanco cegador que aniquila a todos los zombis presentes en el mapa y otorga $+400$ créditos a cada jugador.
+    - **Puntos Dobles (Double Points):** Multiplicador $2\times$ de puntos y créditos durante 30 segundos.
+- **🔨 Reparación de Barricadas (Tecla E / `+use`):**
+  - Fortificación de defensas y accesos manteniendo pulsada la tecla de acción, otorgando $+10$ créditos hasta un máximo de 50 por ronda.
+- **🕹️ Lanzador y Configuración Dedicada:**
+  - `INICIAR_COD_ZOMBIES.bat`: Lanzador directo con 1 clic listo para ejecutar el modo en mapas de supervivencia.
+  - `cstrike/cod_zombies.cfg`: Configuración equilibrada para bots, tiempos, dinero inicial ($500) y binds automáticos.
+  - Integración en Menú 'H' (`commandmenu.txt`): Nueva sección con accesos rápidos a ventajas, caja misteriosa y control de oleadas.
+- **🛡️ Blindaje de Repositorio Git:**
+  - Actualización exhaustiva de `.gitignore`: exclusión de volcados de memoria (`*.mdmp`), archivos de caché GoldSrc (`*.ztmp`), demos (`*.dem`), archivos comprimidos (`*.zip`, `*.rar`, `*.7z`) y registros de servidor (`cstrike/logs/`).
+
+---
+
 ## [2.5.0] - 2026-11-08
 
 ### 🛸 Protocolo Dead Space (Cámara OTS & Mira Láser 3D Volumétrica)

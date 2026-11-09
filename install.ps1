@@ -1,4 +1,4 @@
-# Script de Instalacion Automatica para CS 1.6 - Master Suite & Modpack
+﻿# Script de Instalacion Automatica para CS 1.6 - Master Suite & Modpack
 
 $scriptPath = $PSScriptRoot
 $sourceCstrike = Join-Path $scriptPath "cstrike"
@@ -14,6 +14,7 @@ Write-Host "==============================================================" -For
 Write-Host "  COUNTER-STRIKE 1.6 - MASTER MODPACK & CONFIG INSTALLER" -ForegroundColor Yellow
 Write-Host "==============================================================" -ForegroundColor Cyan
 Write-Host "  Contenido incluido:" -ForegroundColor Gray
+Write-Host "  - Modo CoD: Nazi Zombies Classic (Oleadas, Perks, Caja Misteriosa)" -ForegroundColor Green
 Write-Host "  - 9 Armaduras Hall of Heroes / Tech Crew (CT, T & VIP)" -ForegroundColor White
 Write-Host "  - Guanteletes Repulsores en 1ra persona (v_knife)" -ForegroundColor White
 Write-Host "  - Armamento con guantes tácticos de fibra de carbono" -ForegroundColor White

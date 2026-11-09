@@ -9,6 +9,7 @@ Configuración completa y optimizada para **Counter-Strike 1.6**. Este paquete i
 
 ## 📦 Contenido Incluido en el Repositorio
 
+- **🧟 Modo CoD: Nazi Zombies Classic:** Oleadas progresivas inspiradas en *Call of Duty: World at War*, sistema de puntos por impacto y bajas, máquina Perk-a-Cola (`/perks`), Caja Misteriosa ($950) (`/box`), Power-ups aleatorios (Max Ammo, Insta-Kill, Nuke, Double Points) y reparación de barricadas con tecla **E**.
 - **🗺️ Mapas Personalizados (+540 mapas):** Colección de mapas clásicos y personalizados (`de_dust2`, `cs_deagle5`, `fy_pool_day`, `zm_`, `gungame_`, `awp_`, etc.).
 - **🎭 Skins & Modelos de Personajes:** Packs de personajes como *Iron Man CT/T*, *Kurt Cobain*, modelos *skelet*, y variantes personalizadas de Terroristas y Anti-Terroristas.
 - **🔊 Pack de Sonidos:** Efectos de sonido ambient, *GunGame*, *Ultimate Sounds*, radio femenina y sonidos de armas mejorados.
@@ -54,6 +55,18 @@ Presiona la tecla **H** dentro de una partida para acceder a:
 2. **Ajustes de Mira:** Cambiar tamaño (Pequeño, Mediano, Grande, Auto), color (Verde, Rojo, Amarillo, Azul, Blanco), dinamismo y transparencia con 1 clic.
 3. **Control de Bots:** Agregar Terroristas/CTs, eliminar bots, cambiar dificultad y restringir armas.
 4. **Servidor Local / Práctica:** Reiniciar ronda, otorgar $16.000, cambiar tiempo de ronda a 5 min, ajustar gravedad.
+
+---
+
+## 🧟 Modo Call of Duty: Nazi Zombies Classic
+
+Recreación integral de la experiencia clásica de supervivencia por oleadas inspirada en *Nacht der Untoten*:
+- **Lanzamiento rápido:** Haz doble clic sobre [`INICIAR_COD_ZOMBIES.bat`](file:///d:/Projects/cs16-config-repo/INICIAR_COD_ZOMBIES.bat) para entrar directamente al mapa de supervivencia con bots zombis configurados.
+- **Teclas y Binds de Supervivencia:**
+  - **Tecla `P`** o escribe `/perks` en el chat: Abre la máquina de ventajas Perk-a-Cola (*Juggernog*, *Speed Cola*, *Double Tap*, *Quick Revive*).
+  - **Tecla `B`** o escribe `/box` en el chat: Tira de la Caja Misteriosa ($950) para obtener armamento de alto calibre (o toparte con el Osito de Samantha).
+  - **Tecla `E`** (`+use`): Fortifica defensas y repara barricadas ganando $+10$ créditos (hasta 50 por ronda).
+  - **Tecla `H`**: Despliega el menú interactivo con la sección `[COD ZOMBIES]` para agregar más zombis, reiniciar la horda o forzar la siguiente ronda.
 
 ---
 
