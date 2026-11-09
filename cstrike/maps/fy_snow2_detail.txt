@@ -1,0 +1,16 @@
+// Detail texture mapping for fy_snow2.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+aaatrigger	detail/dt_rough1	8.0	8.0
+clip	detail/dt_rough1	8.0	8.0
+ice	detail/dt_rough1	8.0	8.0
+laatikko	detail/dt_rough1	8.0	8.0
+lumi	detail/dt_rough1	8.0	8.0
+p_koriste	detail/dt_rough1	8.0	8.0
+p_lattia	detail/dt_rough1	8.0	8.0
+p_seina	detail/dt_rough1	8.0	8.0
+punkki	detail/dt_rough1	8.0	8.0
+puu	detail/dt_rough1	8.0	8.0
+puu2	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+trrm_wood	detail/dt_wood1	8.0	8.0
+{ladder3a	detail/dt_rough1	8.0	8.0

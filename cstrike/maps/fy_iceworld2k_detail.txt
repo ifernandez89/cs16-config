@@ -1,0 +1,12 @@
+// Detail texture mapping for fy_iceworld2k.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+!waterblue	detail/dt_rough1	8.0	8.0
+-0c2a4d_panel	detail/dt_rough1	8.0	8.0
+-1c2a4d_panel	detail/dt_rough1	8.0	8.0
+-2c2a4d_panel	detail/dt_rough1	8.0	8.0
+clip	detail/dt_rough1	8.0	8.0
+generic028c	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+snow	detail/dt_rough1	8.0	8.0
+snow_rockcliff4	detail/dt_stone1	10.0	10.0
+trrm_wood	detail/dt_wood1	8.0	8.0

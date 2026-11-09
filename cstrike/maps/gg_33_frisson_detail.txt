@@ -1,0 +1,24 @@
+// Detail texture mapping for gg_33_frisson.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
++0~light2a	detail/dt_rough1	8.0	8.0
++a~light2a	detail/dt_rough1	8.0	8.0
+33	detail/dt_rough1	8.0	8.0
+aaatrigger	detail/dt_rough1	8.0	8.0
+black	detail/dt_rough1	8.0	8.0
+clip	detail/dt_rough1	8.0	8.0
+crate02b	detail/dt_wood1	8.0	8.0
+credits11	detail/dt_rough1	8.0	8.0
+crete3_wall02	detail/dt_stone1	10.0	10.0
+creteflr	detail/dt_rough1	8.0	8.0
+floor2_logowi	detail/dt_wood1	8.0	8.0
+glass_bright	detail/dt_rough1	8.0	8.0
+roughalu	detail/dt_rough1	8.0	8.0
+roughwall_bl	detail/dt_stone1	10.0	10.0
+roughwall_rd	detail/dt_stone1	10.0	10.0
+sky	detail/dt_rough1	8.0	8.0
+wallbrick_gen	detail/dt_stone1	10.0	10.0
+wallfire	detail/dt_stone1	10.0	10.0
+wallice2	detail/dt_stone1	10.0	10.0
+wallwte_blue1	detail/dt_stone1	10.0	10.0
+wallwte_red1	detail/dt_stone1	10.0	10.0
+{skla_ladder02	detail/dt_rough1	8.0	8.0

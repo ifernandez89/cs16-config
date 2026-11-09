@@ -1,0 +1,6 @@
+// Detail texture mapping for fy_desert2k3.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+-0cstrike_ca2st	detail/dt_rough1	8.0	8.0
+-1cstrike_ca2st	detail/dt_rough1	8.0	8.0
+cstrike_cr2pln	detail/dt_rough1	8.0	8.0
+cstrike_me1grat	detail/dt_rough1	8.0	8.0

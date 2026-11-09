@@ -1,0 +1,13 @@
+// Detail texture mapping for fy_iceworld_tuned.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+aaatrigger	detail/dt_rough1	8.0	8.0
+black	detail/dt_rough1	8.0	8.0
+c_stone1	detail/dt_stone1	10.0	10.0
+clip	detail/dt_rough1	8.0	8.0
+cugenc	detail/dt_rough1	8.0	8.0
+cuwllg	detail/dt_rough1	8.0	8.0
+cuwllt	detail/dt_rough1	8.0	8.0
+cxbrickf	detail/dt_stone1	10.0	10.0
+cxmarblee	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+water3	detail/dt_rough1	8.0	8.0

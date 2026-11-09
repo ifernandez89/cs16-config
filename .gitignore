@@ -37,8 +37,15 @@ cstrike/models/rpgrocket.mdl
 test_*.cfg
 mm_plugins.txt
 
-# In-game demo recordings
-*.dem
+# Binary assets & Copyrighted Maps / Models / Sounds
+*.bsp
+*.wad
+*.spr
+*.nav
+cstrike/models/player/zombie/
+cstrike/models/roma-city/
+cstrike/sound/zombie/
+cstrike/maps/*.res
 
 # IDE & Editor user settings
 .vs/

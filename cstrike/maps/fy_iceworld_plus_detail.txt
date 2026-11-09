@@ -1,0 +1,7 @@
+// Detail texture mapping for fy_iceworld_plus.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+c_stone1	detail/dt_stone1	10.0	10.0
+clip	detail/dt_rough1	8.0	8.0
+lv_marble	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+snow	detail/dt_rough1	8.0	8.0

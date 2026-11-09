@@ -1,0 +1,10 @@
+// Detail texture mapping for fy_snow_pRO.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+aaatrigger	detail/dt_rough1	8.0	8.0
+black	detail/dt_rough1	8.0	8.0
+boxsides_T01	detail/dt_wood1	8.0	8.0
+pgl	detail/dt_rough1	8.0	8.0
+rj	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+snow01	detail/dt_rough1	8.0	8.0
+stonewall033f	detail/dt_stone1	10.0	10.0

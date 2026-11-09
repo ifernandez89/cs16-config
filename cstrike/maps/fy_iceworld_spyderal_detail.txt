@@ -1,0 +1,12 @@
+// Detail texture mapping for fy_iceworld_spyderal.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+aaatrigger	detail/dt_rough1	8.0	8.0
+c1a3wall07	detail/dt_stone1	10.0	10.0
+clip	detail/dt_rough1	8.0	8.0
+fifties_dr6a	detail/dt_rough1	8.0	8.0
+fifties_tbl1	detail/dt_rough1	8.0	8.0
+glassblue1	detail/dt_rough1	8.0	8.0
+skkylite	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+{ladder1	detail/dt_rough1	8.0	8.0
+{rail1c	detail/dt_rough1	8.0	8.0

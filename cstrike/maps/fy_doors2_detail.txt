@@ -1,0 +1,12 @@
+// Detail texture mapping for fy_doors2.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
++0~white	detail/dt_rough1	8.0	8.0
+aaatrigger	detail/dt_rough1	8.0	8.0
+c1a0_c1	detail/dt_rough1	8.0	8.0
+c1a1_flr2c	detail/dt_rough1	8.0	8.0
+c1a1w1i	detail/dt_rough1	8.0	8.0
+c1a3_w1c	detail/dt_rough1	8.0	8.0
+fifties_dr9	detail/dt_rough1	8.0	8.0
+origin	detail/dt_rough1	8.0	8.0
+{grate2a	detail/dt_metal1	12.0	12.0
+{ladder3b	detail/dt_rough1	8.0	8.0

@@ -1,0 +1,9 @@
+// Detail texture mapping for fy_color_s.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
++0~white	detail/dt_rough1	8.0	8.0
+aaatrigger	detail/dt_rough1	8.0	8.0
+black	detail/dt_rough1	8.0	8.0
+blues	detail/dt_rough1	8.0	8.0
+grey	detail/dt_rough1	8.0	8.0
+rouge	detail/dt_rough1	8.0	8.0
+white	detail/dt_rough1	8.0	8.0

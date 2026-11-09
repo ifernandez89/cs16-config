@@ -1,0 +1,11 @@
+// Detail texture mapping for fy_iceworld_arena.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+CLIP	detail/dt_rough1	8.0	8.0
+CinderBlock02	detail/dt_rough1	8.0	8.0
+CinderBlock03	detail/dt_rough1	8.0	8.0
+CinderBlock04	detail/dt_rough1	8.0	8.0
+c_stone1	detail/dt_stone1	10.0	10.0
+sky	detail/dt_rough1	8.0	8.0
+snow	detail/dt_rough1	8.0	8.0
+{AANeo	detail/dt_rough1	8.0	8.0
+{Credits	detail/dt_rough1	8.0	8.0

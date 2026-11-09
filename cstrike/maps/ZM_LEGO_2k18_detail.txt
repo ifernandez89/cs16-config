@@ -1,0 +1,15 @@
+// Detail texture mapping for ZM_LEGO_2k18.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+aaatrigger	detail/dt_rough1	8.0	8.0
+clip	detail/dt_rough1	8.0	8.0
+legobluecolor	detail/dt_rough1	8.0	8.0
+legobluelogo	detail/dt_rough1	8.0	8.0
+legofence	detail/dt_rough1	8.0	8.0
+legogreencolor	detail/dt_rough1	8.0	8.0
+legogreenlogo	detail/dt_rough1	8.0	8.0
+legoredcolor	detail/dt_rough1	8.0	8.0
+legoredlogo	detail/dt_rough1	8.0	8.0
+legosandgrass	detail/dt_ground1	8.0	8.0
+legoyellowcolor	detail/dt_rough1	8.0	8.0
+legoyellowlogo	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0

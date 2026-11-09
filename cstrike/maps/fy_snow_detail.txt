@@ -1,0 +1,11 @@
+// Detail texture mapping for fy_snow.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+1-teks	detail/dt_rough1	8.0	8.0
+2-teks	detail/dt_rough1	8.0	8.0
+3-teks	detail/dt_rough1	8.0	8.0
+4-teks	detail/dt_rough1	8.0	8.0
+5-teks	detail/dt_rough1	8.0	8.0
+6-teks	detail/dt_rough1	8.0	8.0
+clip	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+trrm_wood	detail/dt_wood1	8.0	8.0

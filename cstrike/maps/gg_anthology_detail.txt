@@ -1,0 +1,5 @@
+// Detail texture mapping for gg_anthology.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
++0~white	detail/dt_rough1	8.0	8.0
+fifties_wall03	detail/dt_stone1	10.0	10.0
+generic015h	detail/dt_rough1	8.0	8.0

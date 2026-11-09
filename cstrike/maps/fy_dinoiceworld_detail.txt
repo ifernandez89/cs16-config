@@ -1,0 +1,10 @@
+// Detail texture mapping for fy_dinoiceworld.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+-0fift_wall13	detail/dt_stone1	10.0	10.0
+Core_Urban_173	detail/dt_rough1	8.0	8.0
+aaatrigger	detail/dt_rough1	8.0	8.0
+clip	detail/dt_rough1	8.0	8.0
+fifties_dr1	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+snow	detail/dt_rough1	8.0	8.0
+{ladder3b	detail/dt_rough1	8.0	8.0

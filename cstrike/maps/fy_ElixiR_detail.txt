@@ -1,0 +1,5 @@
+// Detail texture mapping for fy_ElixiR.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+white	detail/dt_rough1	8.0	8.0
+{arrow2c	detail/dt_rough1	8.0	8.0
+{arrow2d	detail/dt_rough1	8.0	8.0

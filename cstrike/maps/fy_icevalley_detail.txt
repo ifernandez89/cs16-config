@@ -1,0 +1,22 @@
+// Detail texture mapping for fy_icevalley.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+AAATRIGGER	detail/dt_rough1	8.0	8.0
+clip	detail/dt_rough1	8.0	8.0
+scroll_rain	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+w_crate1	detail/dt_wood1	8.0	8.0
+w_crate1_un	detail/dt_wood1	8.0	8.0
+w_crate1b	detail/dt_wood1	8.0	8.0
+w_crate3_med	detail/dt_wood1	8.0	8.0
+w_e_floor6	detail/dt_wood1	8.0	8.0
+w_ice2	detail/dt_rough1	8.0	8.0
+w_rock_snowy_01	detail/dt_stone1	10.0	10.0
+w_sandbag1b	detail/dt_ground1	8.0	8.0
+w_sign1	detail/dt_rough1	8.0	8.0
+w_snow1	detail/dt_rough1	8.0	8.0
+w_snow2	detail/dt_rough1	8.0	8.0
+w_snowwood02a	detail/dt_wood1	8.0	8.0
+w_wood01	detail/dt_wood1	8.0	8.0
+w_wood01b	detail/dt_wood1	8.0	8.0
+{blue	detail/dt_rough1	8.0	8.0
+{tanne	detail/dt_rough1	8.0	8.0

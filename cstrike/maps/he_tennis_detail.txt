@@ -1,0 +1,7 @@
+// Detail texture mapping for he_tennis.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+aaatrigger	detail/dt_rough1	8.0	8.0
+cstrike_ft4apht	detail/dt_rough1	8.0	8.0
+glass_bright	detail/dt_rough1	8.0	8.0
+out_pave2	detail/dt_conc	10.0	10.0
+sky	detail/dt_rough1	8.0	8.0

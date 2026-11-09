@@ -1,0 +1,26 @@
+// Detail texture mapping for ka_snow.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+!waterblue	detail/dt_rough1	8.0	8.0
++0~fifts_lght01	detail/dt_rough1	8.0	8.0
++a~fifts_lght01	detail/dt_rough1	8.0	8.0
+-0WntrWll	detail/dt_rough1	8.0	8.0
+06_w_grass_01	detail/dt_rough1	8.0	8.0
+WntrIce	detail/dt_rough1	8.0	8.0
+WntrTrim	detail/dt_rough1	8.0	8.0
+WntrWndw	detail/dt_rough1	8.0	8.0
+aaatrigger	detail/dt_rough1	8.0	8.0
+brdly_back1	detail/dt_rough1	8.0	8.0
+brdly_btile1	detail/dt_rough1	8.0	8.0
+brdly_frnt1	detail/dt_rough1	8.0	8.0
+brdly_side1	detail/dt_rough1	8.0	8.0
+brdly_top1	detail/dt_rough1	8.0	8.0
+clip	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+snow_cliff	detail/dt_stone1	10.0	10.0
+snow_cliff3	detail/dt_stone1	10.0	10.0
+snow_mounds	detail/dt_rough1	8.0	8.0
+snow_rubble2	detail/dt_rough1	8.0	8.0
+wood	detail/dt_wood1	8.0	8.0
+wood01	detail/dt_wood1	8.0	8.0
+{invisible	detail/dt_rough1	8.0	8.0
+{tree	detail/dt_rough1	8.0	8.0

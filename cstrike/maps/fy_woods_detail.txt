@@ -1,0 +1,14 @@
+// Detail texture mapping for fy_woods.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+-0cstrike_fr4gr	detail/dt_rough1	8.0	8.0
+-1cstrike_fr4gr	detail/dt_rough1	8.0	8.0
+-2cstrike_fr4gr	detail/dt_rough1	8.0	8.0
+-3cstrike_fr4gr	detail/dt_rough1	8.0	8.0
+cstrike_ft3gras	detail/dt_rough1	8.0	8.0
+cstrike_mj3shru	detail/dt_rough1	8.0	8.0
+glass_bright	detail/dt_rough1	8.0	8.0
+glassblue1	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+steel	detail/dt_metal1	12.0	12.0
+{blue	detail/dt_rough1	8.0	8.0
+{cstrike_le6lad	detail/dt_rough1	8.0	8.0

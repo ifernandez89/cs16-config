@@ -1,0 +1,5 @@
+// Detail texture mapping for fy_poolparty_large.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+!waterblue	detail/dt_rough1	8.0	8.0
+bcrate09a	detail/dt_wood1	8.0	8.0
+cstrike_fh4wttl	detail/dt_rough1	8.0	8.0

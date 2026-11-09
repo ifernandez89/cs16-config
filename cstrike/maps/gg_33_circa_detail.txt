@@ -1,0 +1,22 @@
+// Detail texture mapping for gg_33_circa.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+-0babtech8	detail/dt_rough1	8.0	8.0
+-0babtech_flr10	detail/dt_rough1	8.0	8.0
+-1babtech8	detail/dt_rough1	8.0	8.0
+-1babtech_flr10	detail/dt_rough1	8.0	8.0
+-2babtech8	detail/dt_rough1	8.0	8.0
+-2babtech_flr10	detail/dt_rough1	8.0	8.0
+-3babtech_flr10	detail/dt_rough1	8.0	8.0
+aaatrigger	detail/dt_rough1	8.0	8.0
+babtech6_2	detail/dt_rough1	8.0	8.0
+babtech8b	detail/dt_rough1	8.0	8.0
+babtech9d	detail/dt_rough1	8.0	8.0
+babtech_bordl7	detail/dt_rough1	8.0	8.0
+babtech_bordl9	detail/dt_rough1	8.0	8.0
+babtech_dr4c	detail/dt_rough1	8.0	8.0
+clip	detail/dt_rough1	8.0	8.0
+crete4_flr03	detail/dt_rough1	8.0	8.0
+of_crate01c	detail/dt_wood1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+{ladder3a	detail/dt_rough1	8.0	8.0
+~light5b	detail/dt_rough1	8.0	8.0

@@ -1,0 +1,6 @@
+// Detail texture mapping for gg_aim_texture_funworld_cs16.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+glass_med	detail/dt_rough1	8.0	8.0
+tex1	detail/dt_rough1	8.0	8.0
+tex2	detail/dt_rough1	8.0	8.0
+thesky	detail/dt_rough1	8.0	8.0

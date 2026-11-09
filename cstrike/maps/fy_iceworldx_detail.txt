@@ -1,0 +1,22 @@
+// Detail texture mapping for fy_iceworldx.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+-0cstrike_fj2dk	detail/dt_rough1	8.0	8.0
+-1cstrike_fj2dk	detail/dt_rough1	8.0	8.0
+aaatrigger	detail/dt_rough1	8.0	8.0
+black	detail/dt_rough1	8.0	8.0
+bs_iceegg	detail/dt_rough1	8.0	8.0
+bs_sboard	detail/dt_rough1	8.0	8.0
+bs_sbridge	detail/dt_rough1	8.0	8.0
+bs_snowcrt1	detail/dt_rough1	8.0	8.0
+bs_snowedge	detail/dt_rough1	8.0	8.0
+bs_snowstone	detail/dt_stone1	10.0	10.0
+bs_sroof	detail/dt_rough1	8.0	8.0
+bs_utsnow	detail/dt_rough1	8.0	8.0
+c2a3turbine2	detail/dt_rough1	8.0	8.0
+clip	detail/dt_rough1	8.0	8.0
+cxbrusha	detail/dt_rough1	8.0	8.0
+cxbrushb	detail/dt_rough1	8.0	8.0
+generic61	detail/dt_rough1	8.0	8.0
+rope	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+{bs_wladder	detail/dt_rough1	8.0	8.0

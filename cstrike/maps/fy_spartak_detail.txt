@@ -1,0 +1,13 @@
+// Detail texture mapping for fy_spartak.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+aaatrigger	detail/dt_rough1	8.0	8.0
+c4a2_shell1	detail/dt_rough1	8.0	8.0
+clip	detail/dt_rough1	8.0	8.0
+crys_1b	detail/dt_rough1	8.0	8.0
+crys_4b	detail/dt_rough1	8.0	8.0
+fluid3	detail/dt_rough1	8.0	8.0
+sky	detail/dt_rough1	8.0	8.0
+xeno_2c1	detail/dt_rough1	8.0	8.0
+xeno_2c1b	detail/dt_rough1	8.0	8.0
+xeno_muc1a	detail/dt_rough1	8.0	8.0
+xeno_squd1a	detail/dt_rough1	8.0	8.0

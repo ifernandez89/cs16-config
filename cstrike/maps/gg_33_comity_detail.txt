@@ -1,0 +1,27 @@
+// Detail texture mapping for gg_33_comity.bsp
+// [texture_name]    [detail_texture]    [hscale]    [vscale]
+33	detail/dt_rough1	8.0	8.0
+aaatrigger	detail/dt_rough1	8.0	8.0
+crate02b	detail/dt_wood1	8.0	8.0
+credits21	detail/dt_rough1	8.0	8.0
+e8_base1	detail/dt_rough1	8.0	8.0
+e8_btrim02	detail/dt_rough1	8.0	8.0
+e8_mtlwall2	detail/dt_stone1	10.0	10.0
+e8clangfloor	detail/dt_wood1	8.0	8.0
+e8clangwarnmix_	detail/dt_rough1	8.0	8.0
+e8crete01	detail/dt_rough1	8.0	8.0
+e8crete03	detail/dt_rough1	8.0	8.0
+e8crete03_blue	detail/dt_rough1	8.0	8.0
+e8crete03_red	detail/dt_rough1	8.0	8.0
+e8crete03c	detail/dt_rough1	8.0	8.0
+e8creteold_blue	detail/dt_rough1	8.0	8.0
+e8creteold_red	detail/dt_rough1	8.0	8.0
+e8metal03c	detail/dt_metal1	12.0	12.0
+e8trimlight2_bl	detail/dt_rough1	8.0	8.0
+e8trimlight2_re	detail/dt_rough1	8.0	8.0
+e8warning256	detail/dt_rough1	8.0	8.0
+e8warning2step	detail/dt_rough1	8.0	8.0
+e8wrntrim	detail/dt_rough1	8.0	8.0
+origin	detail/dt_rough1	8.0	8.0
+{chainlink	detail/dt_rough1	8.0	8.0
+{ladder1	detail/dt_rough1	8.0	8.0
