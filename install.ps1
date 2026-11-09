@@ -1,4 +1,4 @@
-﻿# Script de Instalacion Automatica para CS 1.6 - Master Suite & Modpack
+# Script de Instalacion Automatica para CS 1.6 - Master Suite & Modpack
 
 $scriptPath = $PSScriptRoot
 $sourceCstrike = Join-Path $scriptPath "cstrike"

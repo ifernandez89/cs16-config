@@ -781,3 +781,4 @@ public AdminNextRound(id)
 	RoundCleared()
 	return PLUGIN_HANDLED
 }
+
